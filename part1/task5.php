@@ -6,7 +6,7 @@
     $result = ($c + $d);
 
     echo $result;
-    
+
 
     
 
