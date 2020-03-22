@@ -6,15 +6,10 @@
  */
 
     $text = "abcde";
-    $string = "a";
-    echo $string;
-    echo "<br/>";
-    $string1 = "c";
-    echo $string1;
-    echo "<br/>";
-    $string2 = "e";
-    echo $string2;
-    echo "<br/>";
+  echo $text[0];
+  echo $text[2];
+  echo $text[4];
+  
 
 
 

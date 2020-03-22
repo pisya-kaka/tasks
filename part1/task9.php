@@ -7,8 +7,8 @@
 
     $text = "Мне";
     $age = 19;
-
-    echo $text.$age;
+    $text1 = "лет";
+    echo $text.$age.$text1;
 
 
     
