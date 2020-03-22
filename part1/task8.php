@@ -6,9 +6,10 @@
  * Вместо %Имя% должно стоять ваше имя.
 */
 
+   $task = "Привет,";
     $name = "Kristina";
 
-    echo $name;
+    echo $task.$name;
 
     
 
