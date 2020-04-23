@@ -20,9 +20,9 @@
 
     $password = 'password';
     if ((strlen($password)) > 5 && (strlen($password)) < 10) {
-    echo 'Пароль подходит!';
+    echo 'Пароль подходит!'."<hr/>";
     } else {
-    echo 'Нужно придумать другой пароль!';
+    echo 'Нужно придумать другой пароль!'."<hr/>";
     }
 
 
